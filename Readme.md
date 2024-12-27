@@ -5,6 +5,7 @@
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
+# Yes It Is a Table of Contents which is also known as Index
 
 * [Installation](#Installation)
 * [Features](#Features)
